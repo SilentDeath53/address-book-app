@@ -1,1 +1,2 @@
-# address-book-app
+# Address Book Application
+A simple address book app.
